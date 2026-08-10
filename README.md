@@ -10,7 +10,7 @@
 
 🎵 Viciado em música
 
-🕹️ No tempo livre gosto de jogar algo ou ver alguma série
+🕹️ No tempo livre gosto de jogar algo (geralmente Fortnite) ou ver alguma série
 
 ### 💻 Tecnologias e ferramentas
 <p align="center">
