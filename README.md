@@ -1,6 +1,4 @@
-## Seja bem vindo 👋
-
-## 🛠️ Tecnologias
+## Aoba
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,kotlin,typescript,java,idea,vscode,git&perline=7" />
