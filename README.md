@@ -1,6 +1,6 @@
 # Aoba
 
-## Sobre mim
+### Sobre mim
 
 🎓 Estudante do curso de Ciência da Computação pela Univasf (6/?)
 
@@ -17,9 +17,13 @@
   <img src="https://skillicons.dev/icons?i=c,kotlin,typescript,java,idea,vscode,git&perline=7" />
 </p>
 
-### 📫 Contato
+### 📫 Redes de contatos
 
 <p align="center">
+
+<a href="https://wa.me/87988564612">
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
 <a href="www.linkedin.com/in/spinkfloyd">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
