@@ -2,18 +2,18 @@
 
 ## Sobre mim
 
-### 🎓 Estudante do curso de Ciência da Computação pela Univasf (6/?)
-### 👨🏻‍💻 Leve apreciador de C/C++ 
-### 🖥️ Ainda iniciante na área de programação mas já tenho familiaridade em C e Java
-### 🎵 Viciado em música
-### 🕹️ No tempo livre gosto de jogar algo ou ver alguma série
+🎓 Estudante do curso de Ciência da Computação pela Univasf (6/?)
+👨🏻‍💻 Leve apreciador de C/C++ 
+🖥️ Ainda iniciante na área de programação mas já tenho familiaridade em C e Java
+🎵 Viciado em música
+🕹️ No tempo livre gosto de jogar algo ou ver alguma série
 
-## 💻 Tecnologias e ferramentas
+### 💻 Tecnologias e ferramentas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,kotlin,typescript,java,idea,vscode,git&perline=7" />
 </p>
 
-## 📫 Contato
+### 📫 Contato
 
 <p align="center">
 
