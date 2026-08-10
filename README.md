@@ -1,16 +1,23 @@
-## Hi there 👋
+## Seja bem vindo 👋
 
-<!--
-**spinkflloyd/spinkflloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologias
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,kotlin,typescript,java,idea,vscode,git&perline=7" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+
+<p align="center">
+  <a href="www.linkedin.com/in/spinkfloyd">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50px" />
+  </a>
+
+  <a href="mailto:gustavosouzasa18@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="50px" />
+  </a>
+
+  <a href="https://www.instagram.com/spink.floyd/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50px" />
+  </a>
+</p>
