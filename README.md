@@ -14,7 +14,7 @@
 
 ### 💻 Tecnologias e ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,kotlin,typescript,java,idea,vscode,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,kotlin,typescript,javascript,html,css,java,idea,vscode,git&perline=7" />
 </p>
 
 ### 📫 Redes de contatos
