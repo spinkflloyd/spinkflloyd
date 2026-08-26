@@ -39,4 +39,4 @@
 
 </p>
 
-![Linguagens mais usadas](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=spinkflloyd&layout=compact)
+![Linguagens mais usadas](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=spinkflloyd&layout=compact&langs_count=10)
