@@ -9,8 +9,6 @@
 
 🎓 Estudante do curso de Ciência da Computação pela Univasf (6/?)
 
-👨🏻‍💻 Leve apreciador de C/C++
-
 🖥️ Ainda iniciante na área de programação mas já tenho familiaridade em C e Java
 
 🎵 Viciado em música
