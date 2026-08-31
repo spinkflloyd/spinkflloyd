@@ -1,10 +1,15 @@
 # Opa bão
 
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
 ### Sobre mim
 
 🎓 Estudante do curso de Ciência da Computação pela Univasf (6/?)
 
-👨🏻‍💻 Leve apreciador de C/C++ 
+👨🏻‍💻 Leve apreciador de C/C++
 
 🖥️ Ainda iniciante na área de programação mas já tenho familiaridade em C e Java
 
@@ -12,7 +17,19 @@
 
 🕹️ No tempo livre gosto de jogar algo (principalmente Fortnite) ou ver alguma série
 
+</td>
+
+<td width="40%" align="center">
+
+<img src="./assets/prisma.png" width="400px">
+
+</td>
+
+</tr>
+</table>
+
 ### 💻 Tecnologias e ferramentas
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,kotlin,typescript,javascript,html,css,java,idea,vscode,git&perline=15" />
 </p>
