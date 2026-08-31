@@ -34,11 +34,10 @@
 </a>
 </p>
 ![Linguagens mais usadas](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=spinkflloyd&layout=compact&langs_count=10)
-### 🐍 Atividade no GitHub
-<p align="center">
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spinkflloyd/spinkflloyd/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spinkflloyd/spinkflloyd/output/github-contribution-grid-snake.svg">
   <img alt="cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/spinkflloyd/spinkflloyd/output/github-contribution-grid-snake.svg">
 </picture>
-</p>
