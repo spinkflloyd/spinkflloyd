@@ -29,7 +29,7 @@
 ### 💻 Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,kotlin,typescript,javascript,html,css,java,idea,vscode,git&perline=15" />
+  <img src="https://skillicons.dev/icons?i=c,kotlin,typescript,javascript,html,css,java,python,idea,vscode,git&perline=15" />
 </p>
 
 ### 📫 Redes de contatos
