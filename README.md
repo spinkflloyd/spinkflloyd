@@ -9,7 +9,7 @@
 
 🎓 Estudante de Ciência da Computação pela Univasf
 
-🖥️ Ainda no início da jornada na programação, com familiaridade em C e Java
+🖥️ Ainda iniciante em programação, mas já tenho certa familiaridade em C e Java
 
 🎵 Viciado em música
 
