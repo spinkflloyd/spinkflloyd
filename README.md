@@ -28,13 +28,13 @@
 
 ### 💻 Linguagens de programação
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,kotlin,java,python,javascript,typescript&perline=15" />
 </p>
 
 ### 🛠️ Tecnologias e ferramentas
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,latex,idea,vscode,git,github&perline=15" />
 </p>
 
