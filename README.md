@@ -40,13 +40,13 @@
 
 ### 📊 Linguagens mais usadas
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=spinkflloyd&layout=compact&langs_count=10" />
 </p>
 
 ### 📫 Redes de contatos
 
-<p align="center">
+<p align="left">
 
 <a href="https://wa.me/87988564612">
 <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
