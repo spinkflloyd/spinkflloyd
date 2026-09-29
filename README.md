@@ -7,13 +7,13 @@
 
 ### Sobre mim
 
-🎓 Estudante do curso de Ciência da Computação pela Univasf (6/?)
+🎓 Estudante de Ciência da Computação pela Univasf
 
-🖥️ Ainda iniciante na área de programação mas já tenho familiaridade em C e Java
+🖥️ Ainda no início da jornada na programação, com familiaridade em C e Java
 
 🎵 Viciado em música
 
-🕹️ No tempo livre gosto de jogar algo (principalmente Fortnite) ou ver alguma série
+🕹️ No tempo livre gosto de jogar, ou assistir alguma série
 
 </td>
 
@@ -26,10 +26,22 @@
 </tr>
 </table>
 
-### 💻 Tecnologias e ferramentas
+### 💻 Linguagens de programação
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,kotlin,typescript,javascript,html,css,java,python,idea,vscode,git&perline=15" />
+  <img src="https://skillicons.dev/icons?i=c,kotlin,java,python,javascript,typescript&perline=15" />
+</p>
+
+### 🛠️ Tecnologias e ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,latex,idea,vscode,git,github&perline=15" />
+</p>
+
+### 📊 Linguagens mais usadas
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=spinkflloyd&layout=compact&langs_count=10" />
 </p>
 
 ### 📫 Redes de contatos
@@ -54,7 +66,7 @@
 
 </p>
 
-![Linguagens mais usadas](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=spinkflloyd&layout=compact&langs_count=10)
+### 🐍 Minhas contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spinkflloyd/spinkflloyd/output/github-contribution-grid-snake-dark.svg">
