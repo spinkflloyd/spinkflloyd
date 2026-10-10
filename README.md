@@ -35,7 +35,7 @@
 ### 🛠️ Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,latex,idea,vscode,git,github&perline=15" />
+  <img src="https://skillicons.dev/icons?i=html,css,postgres,vercel,latex,idea,vscode,git,github&perline=15" />
 </p>
 
 ### 📊 Linguagens mais usadas
