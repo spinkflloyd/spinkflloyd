@@ -5,7 +5,7 @@
 
 <td width="60%" valign="top">
 
-### Sobre mim
+### Sobre mim ###
 
 🎓 Estudante de Ciência da Computação pela Univasf
 
@@ -26,7 +26,7 @@
 </tr>
 </table>
 
-### ### 💻 Linguagens de programação
+### 💻 Linguagens de programação ###
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### ### 🛠️ Tecnologias e ferramentas
+### 🛠️ Tecnologias e ferramentas ###
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -54,13 +54,14 @@
   <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
 </p>
 
-### 📊 Linguagens mais usadas
+### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=spinkflloyd&layout=compact&langs_count=10" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=spinkflloyd&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=spinkflloyd&layout=compact&langs_count=6&theme=dark" />
 </p>
 
-### 📫 Redes de contatos
+### 📫 Redes de contatos ###
 
 <p align="left">
 
@@ -82,7 +83,7 @@
 
 </p>
 
-### 🐍 Minhas contribuições
+### 🐍 Minhas contribuições ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spinkflloyd/spinkflloyd/output/github-contribution-grid-snake-dark.svg">
