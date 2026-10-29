@@ -57,8 +57,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spinkflloyd&show_icons=true&theme=dark&include_all_commits=true&icon_color=A970FF&title_color=A970FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinkflloyd&layout=compact&langs_count=6&theme=dark&title_color=A970FF" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=spinkflloyd&show_icons=true&theme=dark&include_all_commits=true&icon_color=A970FF&title_color=A970FF&utm_source=chatgpt.com" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=spinkflloyd&layout=compact&langs_count=6&theme=dark&title_color=A970FF&utm_source=chatgpt.com" />
 </p>
 
 ### 📫 Redes de contatos ###
